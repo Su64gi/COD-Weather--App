@@ -3,6 +3,7 @@ Id:COD7070
 Domain:Web Development
 Duration:20TH APRIL 2024 to 20TH MAY 2024
 Mentor:sravani gouni
+website link:https://sugi-weather-app.netlify.app/
 
 Description:
 The weather app is a versatile tool designed to provide users with up-to-date weather information for any location they desire. Utilizing a combination of HTML, CSS, and JavaScript, 
